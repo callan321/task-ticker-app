@@ -1,7 +1,8 @@
 # task-ticker-app
-A Notion inspired task management application built with Vue.js for the frontend and Django for the backend. 
 
-# n
+A Notion inspired task management application built with Vue.js for the frontend and Django for the backend.
+
+# Frontend with Vue Vite
 
 This template should help get you started developing with Vue 3 in Vite.
 
